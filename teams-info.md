@@ -34,5 +34,5 @@
 ## Modulo 6: Modulo Registro de calificaciones
 
 
-
+3. Erick Daniel Rosales González
 
