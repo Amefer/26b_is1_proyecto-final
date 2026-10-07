@@ -1,14 +1,14 @@
 # Teams
 
 ## Team 1: Modulo Alumnos
-
+1. Eric Uriel Rojas Torres
 
 
 
 
 
 ## Team 2: Modulo Inscripciones
-
+1. Pamela Concepcion Abasolo Diaz
 
 
 
@@ -21,18 +21,20 @@
 
 ## Team 4: Modulo Asignaturas/Materias
 1. Alan Uribe Hernández
-2. Richard Hernandez Diaz
+2. Yael Morales Medina
+3. Richard Hernández Díaz
 
 
 
 ## Team 5: Calendario de exámenes
+1. Melany Joana Toledo Escamilla
 
 
-
-
+4. Samuel Riveroll Vargas
 
 ## Modulo 6: Modulo Registro de calificaciones
 1. Luis Fernando Guerrero Pedroza
+2. Tendzin Angello Diaz Estrada
 
 
-
+4. Gabriell Quetzalli Santana Reyes
