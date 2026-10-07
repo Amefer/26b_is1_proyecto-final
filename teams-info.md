@@ -6,7 +6,7 @@
 
 
 
-- Job Natanael Flores Flores
+2 - Job Natanael Flores Flores
 
 
 
@@ -32,5 +32,10 @@
 
 
 
-## Team 5: Modulo Registro de calificaciones
+## Team 5: Calendario de exámenes
+
+
+
+## Modulo 6: Modulo Registro de calificaciones
+
 
