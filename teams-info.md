@@ -1,6 +1,13 @@
 # Teams
 
+
+
 ## Team 1: Modulo Alumnos
+
+
+
+- Job Natanael Flores Flores
+
 
 
 
@@ -26,9 +33,4 @@
 
 
 ## Team 5: Modulo Registro de calificaciones
-
-
-
-
-
 
