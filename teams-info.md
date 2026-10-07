@@ -26,8 +26,7 @@
 
 
 ## Team 5: Calendario de exámenes
-
-
+  1. Jorge Uriel Vidal Morales
 
 
 
