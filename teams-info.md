@@ -7,6 +7,7 @@
 
 
 
+
 ## Team 2: Modulo Inscripciones
 
 
@@ -15,7 +16,7 @@
 
 ## Team 3: Modulo Profesores
 
-
+Danna Paola Cervantes Ramirez
 
 
 
@@ -32,7 +33,4 @@
 
 
 ## Modulo 6: Modulo Registro de calificaciones
-
-
-
 
