@@ -16,7 +16,7 @@
 
 ## Team 3: Modulo Profesores
 
-1. Danna Paola Cervantes Ramirez
+2. Danna Paola Cervantes Ramirez
 
 
 
