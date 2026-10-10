@@ -6,7 +6,6 @@
 
 
 
-
 ## Team 2: Modulo Inscripciones
 1. Pamela Concepcion Abasolo Diaz
 
@@ -15,8 +14,8 @@
 
 ## Team 3: Modulo Profesores
 1. Ariel Rodriguez Monroy
-
-
+2. Danna Paola Cervantes Ramirez
+ 
 
 
 ## Team 4: Modulo Asignaturas/Materias
@@ -37,3 +36,4 @@
 
 
 4. Gabriell Quetzalli Santana Reyes
+
