@@ -33,7 +33,6 @@
 ## Modulo 6: Modulo Registro de calificaciones
 1. Luis Fernando Guerrero Pedroza
 2. Tendzin Angello Diaz Estrada
-
-
+3. Erick Daniel Rosales González
 4. Gabriell Quetzalli Santana Reyes
 
